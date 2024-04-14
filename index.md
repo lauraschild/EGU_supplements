@@ -11,7 +11,6 @@
 - [Significance testing] (#significance-testing)
 - [Methods] (#methods)
 - [Authors] (#authors)
-- [Contact] (#contact)
 
 ## Poster figures with example record
 
@@ -21,5 +20,5 @@
 
 ## Methods 
 
-## Authors
+## [Authors]
 
