@@ -1,4 +1,4 @@
-(add graphical abstract figure)
+![graphical_abstract](/richness_assymetry/figures/graphical_abstract.png)
 
 ## Contents
 
