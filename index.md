@@ -1,7 +1,5 @@
+# Supplementary Material for EGU24 Poster Presentation by Laura Schild
 ![graphical_abstract](/richness_assymetry/figures/graphical_abstract.png)
-
-Access this page on your phone:
-![QR-code](/richness_assymetry/figures/QR.png)
 
 ## Contents
 
@@ -14,6 +12,8 @@ Here you can find:
 - [Contact](#contact)
 
 I'll keep this page up for the duration of the EGU GA, but feel free to [contact me](#contact) afterwards if you'd like to know more.  
+You can also access this page on your phone:
+![QR-code](/richness_assymetry/figures/QR.png)
 
 ## Poster figures with example record
 
@@ -29,6 +29,7 @@ The following set of figures are the same ones as presented on the poster and hi
 
 ## Regional differences
 
+The observed 
 
 ## Significance testing
 
