@@ -25,7 +25,7 @@ The following set of figures are the same ones as presented on the poster and hi
 
 ![lm](/richness_assymetry/figures/Fig_2_A_polish-1.png)
 
-![compositions](/richness_assymetry/figures/Fig_3polish-1.png)
+![compositions](/richness_assymetry/figures/Fig_3polish_-1.png)
 
 ## Regional differences
 
