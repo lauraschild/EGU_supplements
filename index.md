@@ -11,7 +11,7 @@ Here you can find:
 - [Regional differences](#regional-differences)
 - [Significance testing](#significance-testing)
 - [Methods](#methods)
-- [Authors](#authors)
+- [Contact](#contact)
 
 I'll keep this page up for the duration of the EGU GA, but feel free to [contact me](#contact) afterwards if you'd like to know more.  
 
@@ -20,13 +20,18 @@ I'll keep this page up for the duration of the EGU GA, but feel free to [contact
 Some records show the patterns we observed especially well. One of those is this record in Poland.
 ![polish_map](/richness_assymetry/figures/polish_map.png)
 The following set of figures are the same ones as presented on the poster and highlight the Polish record.
+
 ![loess](/richness_assymetry/figures/Figure_1B_polish-1.png)
+
+![lm](/richness_assymetry/figures/Figure_2A-polish-1.png)
 
 ## Regional differences
 
 ## Significance testing
 
 ## Methods 
+
+### Data Sources
 
 ## Contact
 
