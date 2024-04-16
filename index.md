@@ -42,7 +42,7 @@ The observed patterns differ a bit regionally and are strongest in Europe.
 ### Europe
 
 ![loess_EU](/richness_assymetry/figures/Fig1_EUROPE.png)
-![comp_EU](richness_assymetry/figures/Fig_3_EUROPE.png)
+![comp_EU](/richness_assymetry/figures/Fig_3_EUROPE.png)
 
 ### North America
 
