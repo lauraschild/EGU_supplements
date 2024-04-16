@@ -21,11 +21,14 @@ Some records show the patterns we observed especially well. One of those is this
 ![polish_map](/richness_assymetry/figures/polish_map.png)
 The following set of figures are the same ones as presented on the poster and highlight the Polish record.
 
-![loess](/richness_assymetry/figures/Figure_1B_polish-1.png)
+![loess](/richness_assymetry/figures/Figure_1_B_polish-1.png)
 
-![lm](/richness_assymetry/figures/Figure_2A-polish-1.png)
+![lm](/richness_assymetry/figures/Figure_2_A_polish-1.png)
+
+![compositions](/richness_assymetry/figures/Figure_3polish-1.png)
 
 ## Regional differences
+
 
 ## Significance testing
 
