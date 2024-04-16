@@ -49,6 +49,10 @@ Forest cover was derived from corrected pollen data and is available on PANGAEA 
 
 Richness was derived from the source pollen data and describes the number of species present in a sample. We furthermore corrected for grain counts, as more grains counted will statistically result in more species detected.
 
+## Poster
+
+![poster](/richness_assymetry/figures/EGU_LS-1.png)
+
 
 ## About me
 
